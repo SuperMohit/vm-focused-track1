@@ -1,7 +1,7 @@
 package strategy;
 
 public class FixedFees {
-    {
-        return 35;
-    }
+//    {
+//        return 35;
+//    }
 }
